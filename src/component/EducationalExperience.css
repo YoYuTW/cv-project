@@ -1,0 +1,17 @@
+form {
+  display: flex;
+  flex-flow: column;
+}
+
+input:invalid {
+  border: 2px solid red;
+}
+
+li {
+  width: fit-content;
+}
+
+ul {
+  display: flex;
+  flex-flow: column;
+}
